@@ -1,7 +1,8 @@
 import { factorial, fibonacci } from './math.js';
 
 test('factorial(5) debe ser 120', () => {
-  expect(factorial(5)).toBe(100);
+  expect(factorial(5)).toBe(120);
+  
 });
 
 
